@@ -3,4 +3,3 @@ b="test"
 print (a)
 print (b)
 print (b)
-print (b)
