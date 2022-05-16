@@ -8,6 +8,6 @@ b="test"
 print (a)
 print (b)
 
-demodemodemodemo
-demodemodemodemo
-demodemodemodemo
+mainmainmainmain
+mainmainmainmain
+mainmainmainmain
