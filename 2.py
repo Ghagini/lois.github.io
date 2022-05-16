@@ -6,4 +6,3 @@ b="test"
 print (a)
 print (b)
 print (b)
-new request
