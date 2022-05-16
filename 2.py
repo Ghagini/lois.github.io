@@ -1,3 +1,5 @@
+from hashlib import new
+from multiprocessing import managers
 from urllib import request
 
 
@@ -6,3 +8,5 @@ b="test"
 print (a)
 print (b)
 print (b)
+new managers
+print(a)
